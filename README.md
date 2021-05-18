@@ -4,7 +4,7 @@ Objective: Create a predictive model based on a dataset of 22400 observations. T
 
 Evaluation of Model performance using F1 Score
 
-Authorship:
+Authorship (Nova IMS students):
 - Catarina Candeias 
 - Catarina Urbano
 - Margarida Pereira
